@@ -5,7 +5,7 @@ The COVID-19 data is updated every day by a scheduler which merges the data with
 
 COVID-19 Data: https://opendata.ecdc.europa.eu/covid19/casedistribution/
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Application Screenshot](./Covid19_Screenshot.PNG)
 
 ## Getting Started
 
