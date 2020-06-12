@@ -13,4 +13,4 @@ Clone this repository and run the Spring application.
 
 ### Used Technologies
 
-Java, Spring, Javascript, Leaflet, CSS, HTML
+Java 8, Spring-Web, Thymeleaf, Javascript, Leaflet, CSS, HTML, Bootstrap, JQuery, Maven
