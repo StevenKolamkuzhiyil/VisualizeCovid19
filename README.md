@@ -9,7 +9,7 @@ COVID-19 Data: https://opendata.ecdc.europa.eu/covid19/casedistribution/
 
 ## Getting Started
 
-Clone this repository and run the Spring application.
+Clone this repository and run the Spring application in an IDE of your choice.
 
 ### Used Technologies
 
